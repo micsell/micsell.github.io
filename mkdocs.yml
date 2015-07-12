@@ -1,0 +1,12 @@
+site_name: SoftEtherGUI
+site_description: OSX GUI for SoftEtherVPN
+site_author: Mike Selivanov
+pages:
+- Home: index.md
+- Features: features.md
+- Download: download.md
+- Installation: installation.md
+- Gallery: gallery.md
+- Contributing: contributing.md
+- About: about.md
+theme: readthedocs
