@@ -1,0 +1,94 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to SoftEtherGUI\n\n\nThis site hosts resources and information regarding SoftEtherGUI - a graphical frontend for \nSoftEtherVPN client\n.\nThe application is for OSX only and enables easy configuration, connection and monitoring of SoftEther VPN client.\nThe GUI also automatically acquires IP address, and deals with DNS split-tunneling and VPN traffic redirection.\n\n\n\n\n\n\n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-softethergui", 
+            "text": "This site hosts resources and information regarding SoftEtherGUI - a graphical frontend for  SoftEtherVPN client .\nThe application is for OSX only and enables easy configuration, connection and monitoring of SoftEther VPN client.\nThe GUI also automatically acquires IP address, and deals with DNS split-tunneling and VPN traffic redirection.   \n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();  Please enable JavaScript to view the  comments powered by Disqus.", 
+            "title": "Welcome to SoftEtherGUI"
+        }, 
+        {
+            "location": "/features/", 
+            "text": "SoftEtherGUI Features\n\n\nThe following features are supported:\n\n\n\n\nStarting and stopping SoftEtherVPN client\n\n\nCreating, deleting and modifying accounts\n\n\nConnecting and disconnecting accounts from menu bar\n\n\nConnection timer in the menu bar can be shown or hidden\n\n\nYou can enable or disable remote DNS \n\n\nYou can redirect all traffic through VPN connection\n\n\nYou can view debug log from the application\n\n\nOS notifications are shown when account is connected, disconnected and when IP address is acquired\n\n\n\n\nRedirect all traffic and remote DNS can be changed during the session (on the fly)\n\n\nLimitations\n\n\nDue to current limitations in SoftEtherVPN code (OSX specific), only one concurrent connected session is supported\n\n\n\n\n\n\n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/features/#softethergui-features", 
+            "text": "", 
+            "title": "SoftEtherGUI Features"
+        }, 
+        {
+            "location": "/features/#the-following-features-are-supported", 
+            "text": "Starting and stopping SoftEtherVPN client  Creating, deleting and modifying accounts  Connecting and disconnecting accounts from menu bar  Connection timer in the menu bar can be shown or hidden  You can enable or disable remote DNS   You can redirect all traffic through VPN connection  You can view debug log from the application  OS notifications are shown when account is connected, disconnected and when IP address is acquired   Redirect all traffic and remote DNS can be changed during the session (on the fly)", 
+            "title": "The following features are supported:"
+        }, 
+        {
+            "location": "/features/#limitations", 
+            "text": "Due to current limitations in SoftEtherVPN code (OSX specific), only one concurrent connected session is supported   \n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();  Please enable JavaScript to view the  comments powered by Disqus.", 
+            "title": "Limitations"
+        }, 
+        {
+            "location": "/download/", 
+            "text": "Download SoftEtherGUI\n\n\nSoftEtherGUI v.1.0.1  \nClick to Download\n\n\n\n\n\n\n\n\n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.", 
+            "title": "Download"
+        }, 
+        {
+            "location": "/download/#download-softethergui", 
+            "text": "SoftEtherGUI v.1.0.1   Click to Download    \n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();  Please enable JavaScript to view the  comments powered by Disqus.", 
+            "title": "Download SoftEtherGUI"
+        }, 
+        {
+            "location": "/installation/", 
+            "text": "SoftEtherGUI installation\n\n\nJust copy the SoftEtherGUI app to your application folder.\n\n\n\n\n\n\n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/installation/#softethergui-installation", 
+            "text": "Just copy the SoftEtherGUI app to your application folder.   \n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();  Please enable JavaScript to view the  comments powered by Disqus.", 
+            "title": "SoftEtherGUI installation"
+        }, 
+        {
+            "location": "/gallery/", 
+            "text": "Screenshot gallery\n\n\n \n\nStarting SoftEtherGUI\n\n\n\n\nAccount connected\n\n\n\n\nConfiguration window\n\n\n\n\nLog window\n\n\n\n\n\n\n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.", 
+            "title": "Gallery"
+        }, 
+        {
+            "location": "/gallery/#screenshot-gallery", 
+            "text": "Starting SoftEtherGUI   Account connected   Configuration window   Log window   \n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();  Please enable JavaScript to view the  comments powered by Disqus.", 
+            "title": "Screenshot gallery"
+        }, 
+        {
+            "location": "/contributing/", 
+            "text": "Contributing to SoftEtherGUI\n\n\nAn introduction to contributing to the SoftEtherGUI project.\n\n\nThe SoftEtherGUI project welcomes, and depends, on contributions from developers and users in the open source community. Contributions can be made in a number of ways, a few examples are:\n\n\n\n\nCode patches via pull requests\n\n\nDocumentation improvements\n\n\nBug reports and patch reviews\n\n\n\n\nReporting an Issue?\n\n\nPlease include as much detail as you can. Let us know your OS version and SoftEtherGUI version. If the problem is visual, please add a screenshot and if you get an error please include the the full error and traceback.\n\n\n\n\n\n\n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.", 
+            "title": "Contributing"
+        }, 
+        {
+            "location": "/contributing/#contributing-to-softethergui", 
+            "text": "", 
+            "title": "Contributing to SoftEtherGUI"
+        }, 
+        {
+            "location": "/contributing/#an-introduction-to-contributing-to-the-softethergui-project", 
+            "text": "The SoftEtherGUI project welcomes, and depends, on contributions from developers and users in the open source community. Contributions can be made in a number of ways, a few examples are:   Code patches via pull requests  Documentation improvements  Bug reports and patch reviews", 
+            "title": "An introduction to contributing to the SoftEtherGUI project."
+        }, 
+        {
+            "location": "/contributing/#reporting-an-issue", 
+            "text": "Please include as much detail as you can. Let us know your OS version and SoftEtherGUI version. If the problem is visual, please add a screenshot and if you get an error please include the the full error and traceback.   \n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();  Please enable JavaScript to view the  comments powered by Disqus.", 
+            "title": "Reporting an Issue?"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "About SoftEtherGUI\n\n\n\n\nSoftEtherGUI is a native MAC OS application written in Swift and Objective-C\n\n\nUnder the hood it uses (slightly modified) \nSoftEtherVPN\n\n\n\n\n\n\nModifications include a patch that fixes MAC OS 100% CPU utilization. You can look at the patch at \nthe following link\n \n\n\n\n\n\n\nThe application uses two modules: GUI application, executed with regular permissions, and priveleged helper, running with administrative priveleges. The helper is responsible for performing priveleged operation, such as bringing SoftEtherVPN up, creating routes, changing host DNS configuration etc.\n\n\nSoftEtherVPN saves sensitive data (vpn config file) in OSX Keychain. When you upgrade to a new version, you will be prompted to restore the archived vpn config file from the Keychain.\n\n\n\n\n\n\n\n\n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#about-softethergui", 
+            "text": "SoftEtherGUI is a native MAC OS application written in Swift and Objective-C  Under the hood it uses (slightly modified)  SoftEtherVPN    Modifications include a patch that fixes MAC OS 100% CPU utilization. You can look at the patch at  the following link      The application uses two modules: GUI application, executed with regular permissions, and priveleged helper, running with administrative priveleges. The helper is responsible for performing priveleged operation, such as bringing SoftEtherVPN up, creating routes, changing host DNS configuration etc.  SoftEtherVPN saves sensitive data (vpn config file) in OSX Keychain. When you upgrade to a new version, you will be prompted to restore the archived vpn config file from the Keychain.    \n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();  Please enable JavaScript to view the  comments powered by Disqus.", 
+            "title": "About SoftEtherGUI"
+        }
+    ]
+}
