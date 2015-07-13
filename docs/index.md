@@ -2,7 +2,7 @@
 This site hosts resources and information regarding SoftEtherGUI - a graphical frontend for [SoftEtherVPN client](http://www.softether.org).
 The application is for OS X only and enables easy configuration, connection and monitoring of SoftEther VPN client.
 The GUI also automatically acquires IP address, and deals with DNS split-tunneling and VPN traffic redirection.
-The application is self-contained - it includes the GUI, the SoftEtherVPN client and TAP driver (we use [tuntaposx](http://tuntaposx.sourceforge.com) binary).
+The application is self-contained - it includes the GUI, the SoftEtherVPN client and TAP driver (we use [tuntaposx](http://tuntaposx.sourceforge.net) binary).
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
