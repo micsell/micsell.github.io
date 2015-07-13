@@ -1,5 +1,5 @@
 site_name: SoftEtherGUI
-site_description: OSX GUI for SoftEtherVPN
+site_description: OS X GUI for SoftEtherVPN
 site_author: Mike Selivanov
 google_analytics: [ 'UA-65070801-1', 'softethergui.lastgrid.com']
 pages:

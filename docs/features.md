@@ -12,7 +12,7 @@
 Redirect all traffic and remote DNS can be changed during the session (on the fly)
 
 ## Limitations
-Due to current limitations in SoftEtherVPN code (OSX specific), only one concurrent connected session is supported
+Only one concurrent connected session is currently supported
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">

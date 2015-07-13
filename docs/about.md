@@ -1,9 +1,9 @@
 # About SoftEtherGUI
 - SoftEtherGUI is a native MAC OS application written in Swift and Objective-C
-- Under the hood it uses (slightly modified) [SoftEtherVPN](http://www.softether.org)
+- Under the hood it uses (modified) [SoftEtherVPN](http://www.softether.org)
 - - Modifications include a patch that fixes MAC OS 100% CPU utilization. You can look at the patch at [the following link](https://github.com/SoftEtherVPN/SoftEtherVPN/pull/165) 
 - The application uses two modules: GUI application, executed with regular permissions, and priveleged helper, running with administrative priveleges. The helper is responsible for performing priveleged operation, such as bringing SoftEtherVPN up, creating routes, changing host DNS configuration etc.
-- SoftEtherVPN saves sensitive data (vpn config file) in OSX Keychain. When you upgrade to a new version, you will be prompted to restore the archived vpn config file from the Keychain.
+- SoftEtherVPN saves sensitive data (vpn config file) in OS X Keychain. When you upgrade to a new version, you will be prompted to restore the archived vpn config file from the Keychain.
 
 
 <div id="disqus_thread"></div>
