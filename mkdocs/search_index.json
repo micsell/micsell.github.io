@@ -32,12 +32,12 @@
         }, 
         {
             "location": "/download/", 
-            "text": "Download SoftEtherGUI\n\n\nSoftEtherGUI v.1.0.1  \nClick to Download\n\n\n\n\n\n\n\n\n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.", 
+            "text": "Download SoftEtherGUI\n\n\nSoftEtherGUI v.1.0.2  \nClick to Download\n\n\n\n\n\n\n\n\n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.", 
             "title": "Download"
         }, 
         {
             "location": "/download/#download-softethergui", 
-            "text": "SoftEtherGUI v.1.0.1   Click to Download    \n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();  Please enable JavaScript to view the  comments powered by Disqus.", 
+            "text": "SoftEtherGUI v.1.0.2   Click to Download    \n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();  Please enable JavaScript to view the  comments powered by Disqus.", 
             "title": "Download SoftEtherGUI"
         }, 
         {
