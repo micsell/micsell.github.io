@@ -41,6 +41,26 @@
             "title": "Download SoftEtherGUI"
         }, 
         {
+            "location": "/changelog/", 
+            "text": "v.1.0.2\n\n\n\n\nResponsiveness and speed improvement\n\n\nChanged external commands using vpncmd to internal implementation\n\n\n\n\n\n\nAs a result vpncmd binary is removed from the product\n\n\n\n\n\n\nImproved timer logic (now based on internal SoftEtherVPN counters)\n\n\nFixed memory leaks\n\n\nBug fixes\n\n\n\n\nv.1.0.1\n\n\n\n\nAddition of internal tap driver (from \nhttp://tuntaposx.sourceforge.net\n)\n\n\n\n\n\n\nIn case installed tap driver is found, it is used by the application. If absent, it will load internal driver at start and unload when exited\n\n\n\n\n\n\nSaving of configuration to OS Keychain\n\n\nIn case of upgrade, settings are retreived from OS Keychain\n\n\nLog window now available for troubleshooting\n\n\nBug fixes\n\n\n\n\nv.1.0.0\n\n\n\n\nInitial version\n\n\nConfiguration of SoftEtherVPN accounts\n\n\nConnect/Disconnect of accounts\n\n\nRemote DNS setting\n\n\nRedirect all traffic setting\n\n\nConnection timer for connected session\n\n\nDisplay of connection time in menu bar (system tray)\n\n\nPersistent settings", 
+            "title": "Changelog"
+        }, 
+        {
+            "location": "/changelog/#v102", 
+            "text": "Responsiveness and speed improvement  Changed external commands using vpncmd to internal implementation    As a result vpncmd binary is removed from the product    Improved timer logic (now based on internal SoftEtherVPN counters)  Fixed memory leaks  Bug fixes", 
+            "title": "v.1.0.2"
+        }, 
+        {
+            "location": "/changelog/#v101", 
+            "text": "Addition of internal tap driver (from  http://tuntaposx.sourceforge.net )    In case installed tap driver is found, it is used by the application. If absent, it will load internal driver at start and unload when exited    Saving of configuration to OS Keychain  In case of upgrade, settings are retreived from OS Keychain  Log window now available for troubleshooting  Bug fixes", 
+            "title": "v.1.0.1"
+        }, 
+        {
+            "location": "/changelog/#v100", 
+            "text": "Initial version  Configuration of SoftEtherVPN accounts  Connect/Disconnect of accounts  Remote DNS setting  Redirect all traffic setting  Connection timer for connected session  Display of connection time in menu bar (system tray)  Persistent settings", 
+            "title": "v.1.0.0"
+        }, 
+        {
             "location": "/installation/", 
             "text": "SoftEtherGUI installation\n\n\nJust copy the SoftEtherGUI app to your application folder.\n\n\n\n\n\n\n    /* * * CONFIGURATION VARIABLES * * */\n    var disqus_shortname = 'softethergui';\n\n    /* * * DON'T EDIT BELOW THIS LINE * * */\n    (function() {\n        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n    })();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.", 
             "title": "Installation"
