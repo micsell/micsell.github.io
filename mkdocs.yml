@@ -6,6 +6,7 @@ pages:
 - Home: index.md
 - Features: features.md
 - Download: download.md
+- Changelog: changelog.md
 - Installation: installation.md
 - Gallery: gallery.md
 - Contributing: contributing.md
