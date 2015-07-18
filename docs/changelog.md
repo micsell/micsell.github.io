@@ -1,3 +1,5 @@
+## v.1.0.3
+- Account name can now contain spaces and special characters
 ## v.1.0.2
 - Responsiveness and speed improvement
 - Changed external commands using vpncmd to internal implementation
