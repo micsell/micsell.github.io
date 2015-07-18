@@ -42,8 +42,13 @@
         }, 
         {
             "location": "/changelog/", 
-            "text": "v.1.0.2\n\n\n\n\nResponsiveness and speed improvement\n\n\nChanged external commands using vpncmd to internal implementation\n\n\n\n\n\n\nAs a result vpncmd binary is removed from the product\n\n\n\n\n\n\nImproved timer logic (now based on internal SoftEtherVPN counters)\n\n\nFixed memory leaks\n\n\nBug fixes\n\n\n\n\nv.1.0.1\n\n\n\n\nAddition of internal tap driver (from \nhttp://tuntaposx.sourceforge.net\n)\n\n\n\n\n\n\nIn case installed tap driver is found, it is used by the application. If absent, it will load internal driver at start and unload when exited\n\n\n\n\n\n\nSaving of configuration to OS Keychain\n\n\nIn case of upgrade, settings are retreived from OS Keychain\n\n\nLog window now available for troubleshooting\n\n\nBug fixes\n\n\n\n\nv.1.0.0\n\n\n\n\nInitial version\n\n\nConfiguration of SoftEtherVPN accounts\n\n\nConnect/Disconnect of accounts\n\n\nRemote DNS setting\n\n\nRedirect all traffic setting\n\n\nConnection timer for connected session\n\n\nDisplay of connection time in menu bar (system tray)\n\n\nPersistent settings", 
+            "text": "v.1.0.3\n\n\n\n\nAccount name can now contain spaces and special characters\n\n\n\n\nv.1.0.2\n\n\n\n\nResponsiveness and speed improvement\n\n\nChanged external commands using vpncmd to internal implementation\n\n\n\n\n\n\nAs a result vpncmd binary is removed from the product\n\n\n\n\n\n\nImproved timer logic (now based on internal SoftEtherVPN counters)\n\n\nFixed memory leaks\n\n\nBug fixes\n\n\n\n\nv.1.0.1\n\n\n\n\nAddition of internal tap driver (from \nhttp://tuntaposx.sourceforge.net\n)\n\n\n\n\n\n\nIn case installed tap driver is found, it is used by the application. If absent, it will load internal driver at start and unload when exited\n\n\n\n\n\n\nSaving of configuration to OS Keychain\n\n\nIn case of upgrade, settings are retreived from OS Keychain\n\n\nLog window now available for troubleshooting\n\n\nBug fixes\n\n\n\n\nv.1.0.0\n\n\n\n\nInitial version\n\n\nConfiguration of SoftEtherVPN accounts\n\n\nConnect/Disconnect of accounts\n\n\nRemote DNS setting\n\n\nRedirect all traffic setting\n\n\nConnection timer for connected session\n\n\nDisplay of connection time in menu bar (system tray)\n\n\nPersistent settings", 
             "title": "Changelog"
+        }, 
+        {
+            "location": "/changelog/#v103", 
+            "text": "Account name can now contain spaces and special characters", 
+            "title": "v.1.0.3"
         }, 
         {
             "location": "/changelog/#v102", 
