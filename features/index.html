@@ -3,7 +3,10 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
 <head>
   <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <meta name="author" content="Mike Selivanov">
   
   <title>Features - SoftEtherGUI</title>
   
@@ -21,6 +24,8 @@
   <script>
     // Current page data
     var mkdocs_page_name = "Features";
+    var mkdocs_page_input_path = "features.md";
+    var mkdocs_page_url = "/features/";
   </script>
   
   <script src="../js/jquery-2.1.1.min.js"></script>
@@ -177,7 +182,10 @@
 </ul>
 <p>Redirect all traffic and remote DNS can be changed during the session (on the fly)</p>
 <h2 id="limitations">Limitations</h2>
-<p>Only one concurrent connected session is currently supported</p>
+<p>Only one concurrent connected session is currently supported
+If you have trouble with activating SoftEther, it's probably due to tuntap driver failing to start. Try to
+manually install tuntap from http://tuntaposx.sourceforge.net. If SoftEtherGUI detects loaded tap driver,
+it will try to use it instead of loading it's own.</p>
 <div id="disqus_thread"></div>
 
 <script type="text/javascript">
@@ -200,7 +208,7 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../download/" class="btn btn-neutral float-right" title="Download"/>Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../download/" class="btn btn-neutral float-right" title="Download">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
         <a href=".." class="btn btn-neutral" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
