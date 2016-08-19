@@ -13,6 +13,9 @@ Redirect all traffic and remote DNS can be changed during the session (on the fl
 
 ## Limitations
 Only one concurrent connected session is currently supported
+If you have trouble with activating SoftEther, it's probably due to tuntap driver failing to start. Try to
+manually install tuntap from http://tuntaposx.sourceforge.net. If SoftEtherGUI detects loaded tap driver,
+it will try to use it instead of loading it's own.
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
